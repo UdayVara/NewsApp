@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Note that APi key is not provided here for securitry purpose , do genrate your own api key from NEWSAPI  and paste it into source code
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
